@@ -10,6 +10,6 @@ International License</a>
 
 ### Prabhjyoth Mattummal	$\mathbf{(r0861984)}$ 
 
-Repository made for thesis project made for the completion of my M.Sc. degree in Statistics and Data Sciecne at KU Leuven. 
+Repository made for thesis project made for the completion of my M.Sc. degree in Statistics and Data Science at KU Leuven. 
 
 The repository contains all the coding scripts (in R) made during this project but does not contain any data(sets), since they are strictly confidential.
